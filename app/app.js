@@ -14,6 +14,7 @@ import ReactDOM from 'react-dom';
 import { Provider } from 'react-redux';
 import { ConnectedRouter } from 'connected-react-router';
 import history from 'utils/history';
+import './app.less'
 import 'sanitize.css/sanitize.css';
 
 // Import root app
